@@ -1,7 +1,7 @@
 # MySSL
 An SSL implementation
 
-[![Demo](https://www.youtube.com/watch?v=f96630oHiwQ/0.jpg)](https://www.youtube.com/watch?v=f96630oHiwQ)
+[![Demo](https://www.youtube.com/watch?v=f96630oHiwQ/default.jpg)](https://www.youtube.com/watch?v=f96630oHiwQ)
 
 
 To compile:  
